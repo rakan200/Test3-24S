@@ -20,7 +20,7 @@ namespace Test3_24S
         {
             int textBox1;
             int textBox2;
-            textBox2 = textBox2 + textBox1;
+            
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -31,6 +31,7 @@ namespace Test3_24S
         private void textBox3_TextChanged(object sender, EventArgs e)
         {
             int add;
+            int textBox1;
         }
 
         private void textBox4_TextChanged(object sender, EventArgs e)
@@ -38,7 +39,7 @@ namespace Test3_24S
             int textBox4;
             int textBox3;
             int textBox2;
-           textBox4 = textBox2 / textBox3;
+            
         }
     }
 }
